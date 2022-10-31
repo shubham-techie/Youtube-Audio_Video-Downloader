@@ -9,6 +9,9 @@
 2. Download video files
 3. Proper error handling 
 
+### Features to be added in future :
+1. Dropdown menu to select resolution for videos
+2. Download full playlist
 
 ## Here is the link for executable file for windows.
 [Youtube_AV_Downloader.exe](https://drive.google.com/file/d/1V6DJ2P3wyzIFqPrFi6-B1l8BYXM0XLt0/view?usp=sharing) \
